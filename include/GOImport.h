@@ -8,7 +8,7 @@
 #include <Arduino.h>
 
 const int ledPin =  LED_BUILTIN;    // the number of the LED pin
-const long interval = 1000;
+const long interval = 500;
 
 extern bool upDateLED();
 
